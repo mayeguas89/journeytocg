@@ -1,0 +1,15 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Journey to Computer Graphics"
+theme = 'ananke'
+
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "My Path to the World of Visuals"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
