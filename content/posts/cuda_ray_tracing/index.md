@@ -1,7 +1,7 @@
 ---
 title: "CUDA Ray Tracing in One Weekend"
 date: 2023-04-24T12:12:53+02:00
-draft: true
+draft: false
 ---
 
 ## Cuda randon numbers
